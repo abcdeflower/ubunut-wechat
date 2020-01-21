@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=wechat
+Type=Application
+Exec=/home/sun/Desktop/wx.sh
+Icon=/home/sun/Pictures/1127869-20180602105354254-1327395543.png
+Terminal=false
+StartupWMClass=wx.qq.com
